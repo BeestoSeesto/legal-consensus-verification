@@ -165,7 +165,9 @@ Contributions welcome. Please open an issue before submitting major changes.
 
 ### Contact
 
-[Your LinkedIn/Email]
+**Email:** sistozavala777@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/sisto-zavala/
+**GitHub:** https://github.com/BeestoSeesto
 
 ---
 
